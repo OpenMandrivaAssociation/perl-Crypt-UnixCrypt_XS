@@ -9,7 +9,7 @@ Summary:    Perl-xs implementation of crypt(3)
 
 License:    GPL+ or Artistic
 Group:      Development/Perl
-Url:        http://search.cpan.org/dist/%{upstream_name}
+Url:        https://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Crypt/Crypt-UnixCrypt_XS-%{upstream_version}.tar.gz
 Patch0:		Crypt-UnixCrypt_XS-0.10-debug.patch
 
